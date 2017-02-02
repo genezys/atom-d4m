@@ -1,0 +1,11 @@
+{
+  "name": "atom-d4m",
+  "main": "./lib/atom-d4m",
+  "version": "1.0.0",
+  "description": "Notify your file changes to d4m-nfs",
+  "repository": "https://github.com/genezys/atom-d4m",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
